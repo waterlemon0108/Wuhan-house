@@ -25,9 +25,13 @@
         "toggle-chapters",
         "disqus",
         "page-toc-button",
-        "hide-element"
+        "hide-element",
+        "theme-comscore"
     ],
     "pluginsConfig": {
+        "theme-default": {
+           "showLevel": true
+        },
         "hide-element": {
             "elements": [".gitbook-link"]
         },
