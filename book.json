@@ -1,5 +1,5 @@
 {
-    "title": "Django",
+    "title": "武汉购房",
     "author": "tianwei",
     "links" : {
         "sidebar" : {
@@ -29,21 +29,18 @@
         "theme-comscore"
     ],
     "pluginsConfig": {
-        "theme-default": {
-           "showLevel": true
-        },
         "hide-element": {
             "elements": [".gitbook-link"]
         },
         "page-toc-button": {
-            "maxTocDepth": 2,
+            "maxTocDepth": 4,
             "minTocSize": 1
         },
         "disqus": {
             "shortName": "www-itrunner-cn"
         },
         "insert-logo": {
-            "url": "images/logo.png",
+            "url": "/assets/武汉.jpeg",
             "style": "background: none; max-height: 50px; min-height: 50px"
         },
         "favicon": "./icon/book.ico",
