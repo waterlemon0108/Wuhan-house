@@ -40,7 +40,7 @@
             "shortName": "www-itrunner-cn"
         },
         "insert-logo": {
-            "url": "/assets/武汉.jpeg",
+            "url": "./assets/武汉.jpeg",
             "style": "background: none; max-height: 50px; min-height: 50px"
         },
         "favicon": "./icon/book.ico",
